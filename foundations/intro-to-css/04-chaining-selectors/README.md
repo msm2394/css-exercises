@@ -1,3 +1,7 @@
+Update:
+
+Project completed. Very simple, but very useful. This was not something I had done in my previous projects using CSS iirc.
+
 # Chaining Selectors
 
 Credits for the images in this exercise go to [Katho Mutodo](https://linktr.ee/photobykatho_) and [Andrea Piacquadio](https://www.pexels.com/@olly?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).
