@@ -1,3 +1,6 @@
+Update:
+Completed this one without any trouble as it was mostly refresher material. There was a lesson learned when comparing my solution with the given solution. I used mostly classes to accomplish the outcome, but the solution used IDs for the elements that were individually styled and classes for applying styling to multiple elements. If I did this assignment again I would think about it that way and match that styling pattern.
+
 # Class and ID Selectors
 Knowing how to add class and ID attributes to HTML elements, as well as use their respective selectors, is invaluable. It's important to practice using them.
 
